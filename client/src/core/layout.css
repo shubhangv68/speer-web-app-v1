@@ -1,0 +1,32 @@
+.nav-tabs{
+    background-color: #6558F5;
+    height: 55px;
+    
+}
+
+.nav-link:hover{
+    background-color: #6558F5;
+    color: white !important;
+    border-radius: 10px;
+   
+}
+@media (max-width: 760px) {
+   .nav-link{
+     margin-left: auto !important;
+     margin-right: auto !important;
+     
+   }
+}
+@media (min-width: 760px) {
+    .nav-link{
+      margin-left: 4%
+      
+      
+    }
+ }
+/* 
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+} */

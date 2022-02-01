@@ -1,0 +1,30 @@
+@media screen and (max-width: 800px) {
+   #homeimg{
+    display: none;
+   }
+  }
+
+
+  .carduserbutton:hover{
+   background-color: #6558F5;
+   color: white !important;
+   border-radius: 10px;
+}
+
+.containerback{
+   position: relative;
+  text-align: center;
+  
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+#top-left{
+   position: absolute;
+   top: 40px;
+   left: 30px;
+   right:30px;
+}
+
+
+
